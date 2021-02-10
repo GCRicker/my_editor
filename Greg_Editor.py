@@ -1,3 +1,6 @@
+# pylint: disable=unused-wildcard-import, method-hidden
+# pylint: enable=too-many-lines
+
 import os
 from tkinter import *
 from tkinter import filedialog, colorchooser, font
